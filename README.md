@@ -34,6 +34,12 @@ The goal is to transform raw leave records into actionable insights for better d
 - **Formulas & Functions** – SUMIF, COUNTIF, AVERAGEIF for calculations  
 
 ---
+## Business Impact
+
+- Helps the squadron plan staffing more efficiently and avoid understaffing.  
+- Enables data-driven decisions for leave approvals and policy adjustments.  
+- Supports identification of employees or departments that may need better workload management.  
+- Turns raw leave data into actionable insights for operational readiness.
 
 ## Key Insights
 
@@ -49,21 +55,7 @@ The goal is to transform raw leave records into actionable insights for better d
 - Implement scheduling adjustments to cover high-leave periods.  
 - Encourage employees to distribute leave evenly across the year.  
 - Review leave policies for departments with consistently high leave frequency.  
-- Use these insights for workforce planning and performance management.  
-
----
-
-## Project Structure
-
-leave-analysis-excel  
-│  
-├── dataset  
-│   └── leave_records.xlsx        # Raw leave data  
-├── analysis  
-│   └── leave_analysis_summary.xlsx  # Pivot tables and charts  
-├── images  
-│   └── leave_charts.png          # Key visualizations  
-└── README.md                      # Project description and insights  
+- Use these insights for workforce planning and performance management.    
 
 ---
 
